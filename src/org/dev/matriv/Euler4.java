@@ -28,5 +28,5 @@ public class Euler4 {
         return sb.toString().equals(tmp);
 
     }
-
 }
+
