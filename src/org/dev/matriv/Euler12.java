@@ -1,4 +1,3 @@
-
 package org.dev.matriv;
 
 public class Euler12 {
