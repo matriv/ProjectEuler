@@ -1,3 +1,8 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
 package org.dev.matriv;
 
 /**
@@ -23,5 +28,5 @@ public class Euler4 {
         return sb.toString().equals(tmp);
 
     }
-}
 
+}
